@@ -12,4 +12,4 @@ gem 'rgl'
 
 
 gem 'pry'
-gem 'pry-debugger'
+gem 'pry-byebug'
